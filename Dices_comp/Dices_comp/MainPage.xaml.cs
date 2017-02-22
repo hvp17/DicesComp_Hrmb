@@ -5,7 +5,6 @@ using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Dices_comp.Entities;
 using Xamarin.Forms;
 
 namespace Dices_comp
